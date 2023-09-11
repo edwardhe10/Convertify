@@ -1,4 +1,4 @@
-App Link: https://64bc7e46b6caba4636982f08--prismatic-pasca-8c313d.netlify.app/
+App Link: https://prismatic-pasca-8c313d.netlify.app/
 
 # Getting Started with Create React App
 
