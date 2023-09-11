@@ -12,7 +12,7 @@ const App = () => {
 
   return (
     <div className="app-container">
-      <h1>Measurement Converter</h1>
+      <h1>Convertify</h1>
       <div className="tabs-container">
         <button
           className={selectedTab === 0 ? "active-tab" : "tab-button"}
